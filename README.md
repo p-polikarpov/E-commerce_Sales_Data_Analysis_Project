@@ -1,4 +1,4 @@
-# E-commerce_Sales_Data_Analysis_Project
+# E-commerce Sales Data Analysis Project
 Учебный проект по анализу данных сервиса e-commerce. Проект выполнен в рамках обучения на программе Karpov.Courses "Аналитик Данных".
 
 Решение включает в себя:
